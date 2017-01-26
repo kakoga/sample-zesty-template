@@ -19,13 +19,12 @@
           <text name="site_name" name_friendly="Site Name" required="1"><![CDATA[Zesty Pet Clinic]]></text>
           <images name="logo" name_friendly="Site Logo" limit="1" />
           <text name="below_logo_text" name_friendly="Below Logo Text"><![CDATA[]]></text>
-          <text name="footer_text" name_friendly="Footer Text"><![CDATA[PetDesk with Zesty.io]]></text>
+          <text name="footer_text" name_friendly="Footer Text"><![CDATA[Zesty.io]]></text>
           <text name="phone" name_friendly="Main Phone"><![CDATA[555-555-5555]]></text>
-          <text name="petdesk_ref_code" name_friendly="Petdesk Reference Code"><![CDATA[1359]]></text>
           <wysiwyg_advanced name="pop_up_content" name_friendly="Pop-up Content"><![CDATA[]]></wysiwyg_advanced>
       </clippings>
-      <ingredients>
 
+      <ingredients>
         <dataset name="social_links" name_friendly="Social Links">
             <fields>
                 <text name="name" name_friendly="Social Media Name" list="1" />
