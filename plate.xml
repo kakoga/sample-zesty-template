@@ -568,7 +568,7 @@
               <text name="send_form_to" name_friendly="Send Form To (email address)" required="1" />
           </fields>
           <items>
-            <item link_title="Patient Forms" path_part="patient-forms"
+            <item link_title="Patient Forms" path_part="patient-forms">
                 <page_title><![CDATA[Patient Forms]]></page_title>
                 <main_image><![CDATA[https://cdb368edefc437a74249-428b2f4da1bce612540a137d021c11ad.ssl.cf2.rackcdn.com/patient-forms-main-image.jpg]]></main_image>
                 <body_text>
