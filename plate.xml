@@ -329,6 +329,15 @@
                 <text name="page_title" name_friendly="Page Title" required="1" />
                 <images name="main_image" name_friendly="Main Image" limit="1" />
                 <wysiwyg_advanced name="body_text" name_friendly="Body Text" />
+                <number name="number_field" name_friendly="Number Field" />
+                <link name="link_field" name_friendly="Link Field" />
+                <files name="files_field" name_friendly="Files Field" />
+                <datetime name="datetime_field" name_friendly="Datetime Field" />
+                <date name="date_field" name_friendly="Date Field" />
+                <currency name="currency_field" name_friendly="Currency Field" />
+                <color name="color_field" name_friendly="color_field" />
+                <brandistry name="brandistry_field" name_friendly="Brandistry Field" />
+                <article_writer name="articlewriter_field" name_friendly="Article Writer Field" />
             </fields>
             <items>
                 <item link_title="Resources" path_part="resources">
@@ -338,6 +347,15 @@
                       <![CDATA[<p>Please see our list of resources below.
                       Need more help? Please contact us.</p>]]>
                     </body_text>
+                    <number_field><![CDATA[]]></number_field>
+                    <link_field><![CDATA[]]></link_field>
+                    <files_field><![CDATA[]]></files_field>
+                    <datetime_field><![CDATA[]]></datetime_field>
+                    <date_field><![CDATA[]]></date_field>
+                    <currency_field><![CDATA[]]></currency_field>
+                    <color_field><![CDATA[]]></color_field>
+                    <brandistry_field><![CDATA[]]></brandistry_field>
+                    <articlewriter_field><![CDATA[]]></articlewriter_field>
                 </item>
               </items>
             </templateset>
