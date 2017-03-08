@@ -338,6 +338,8 @@
                 <currency name="currency_field" name_friendly="Currency Field" />
                 <color name="color_field" name_friendly="color_field" />
                 <brandisty name="brandisty_field" name_friendly="Brandisty Field" />
+                <article_writer name="articlewriter_field" name_friendly="Article Writer Field" />
+
             </fields>
             <items>
                 <item link_title="Resources" path_part="resources">
@@ -356,6 +358,7 @@
                     <currency_field><![CDATA[]]></currency_field>
                     <color_field><![CDATA[]]></color_field>
                     <brandisty_field><![CDATA[]]></brandisty_field>
+                    <articlewriter_field><![CDATA[]]></articlewriter_field>
                 </item>
               </items>
             </templateset>
