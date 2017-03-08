@@ -335,6 +335,7 @@
                 <fontawesome name="fontawesome_field" name_friendly="Font Awesome Icon" />
                 <datetime name="datetime_field" name_friendly="Datetime Field" />
                 <date name="date_field" name_friendly="Date Field" />
+                <currency name="currency_field" name_friendly="Currency Field" />
             </fields>
             <items>
                 <item link_title="Resources" path_part="resources">
@@ -350,6 +351,7 @@
                     <fontawesome_field><![CDATA[]]></fontawesome_field>
                     <datetime_field><![CDATA[]]></datetime_field>
                     <date_field><![CDATA[]]></date_field>
+                    <currency_field><![CDATA[]]></currency_field>
                 </item>
               </items>
             </templateset>
