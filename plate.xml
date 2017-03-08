@@ -348,14 +348,14 @@
                       Need more help? Please contact us.</p>]]>
                     </body_text>
                     <number_field><![CDATA[]]></number_field>
-                    <link_field><![CDATA[]]></link_field>
+                    <!-- <link_field><![CDATA[]]></link_field>
                     <files_field><![CDATA[]]></files_field>
                     <datetime_field><![CDATA[]]></datetime_field>
                     <date_field><![CDATA[]]></date_field>
                     <currency_field><![CDATA[]]></currency_field>
                     <color_field><![CDATA[]]></color_field>
                     <brandistry_field><![CDATA[]]></brandistry_field>
-                    <articlewriter_field><![CDATA[]]></articlewriter_field>
+                    <articlewriter_field><![CDATA[]]></articlewriter_field> -->
                 </item>
               </items>
             </templateset>
