@@ -331,6 +331,7 @@
                 <wysiwyg_advanced name="body_text" name_friendly="Body Text" />
                 <number name="number_field" name_friendly="Number Field" />
                 <link name="link_field" name_friendly="Link Field" />
+                <files name="files_field" name_friendly="Files Field" />
 
             </fields>
             <items>
@@ -343,6 +344,7 @@
                     </body_text>
                     <number_field><![CDATA[]]></number_field>
                     <link_field><![CDATA[]]></link_field>
+                    <files_field><![CDATA[]]></files_field>
 
                 </item>
               </items>
