@@ -333,6 +333,7 @@
                 <link name="link_field" name_friendly="Link Field" />
                 <files name="files_field" name_friendly="Files Field" />
                 <fontawesome name="fontawesome_field" name_friendly="Font Awesome Icon" />
+                <datetime name="datetime_field" name_friendly="Datetime Field" />
             </fields>
             <items>
                 <item link_title="Resources" path_part="resources">
@@ -346,6 +347,7 @@
                     <link_field><![CDATA[]]></link_field>
                     <files_field><![CDATA[]]></files_field>
                     <fontawesome_field><![CDATA[]]></fontawesome_field>
+                    <datetime_field><![CDATA[]]></datetime_field>
                 </item>
               </items>
             </templateset>
