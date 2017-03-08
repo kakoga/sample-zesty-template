@@ -337,6 +337,7 @@
                 <date name="date_field" name_friendly="Date Field" />
                 <currency name="currency_field" name_friendly="Currency Field" />
                 <color name="color_field" name_friendly="color_field" />
+                <brandisty name="brandisty_field" name_friendly="Brandisty Field" />
             </fields>
             <items>
                 <item link_title="Resources" path_part="resources">
@@ -354,6 +355,7 @@
                     <date_field><![CDATA[]]></date_field>
                     <currency_field><![CDATA[]]></currency_field>
                     <color_field><![CDATA[]]></color_field>
+                    <brandisty_field><![CDATA[]]></brandisty_field>
                 </item>
               </items>
             </templateset>
