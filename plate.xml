@@ -330,6 +330,7 @@
                 <images name="main_image" name_friendly="Main Image" limit="1" />
                 <wysiwyg_advanced name="body_text" name_friendly="Body Text" />
                 <number name="number_field" name_friendly="Number Field" />
+                <link name="link_field" name_friendly="Link Field" />
 
             </fields>
             <items>
@@ -341,6 +342,7 @@
                       Need more help? Please contact us.</p>]]>
                     </body_text>
                     <number_field><![CDATA[]]></number_field>
+                    <link_field><![CDATA[]]></link_field>
 
                 </item>
               </items>
