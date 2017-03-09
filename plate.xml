@@ -339,6 +339,7 @@
                 <color name="color_field" name_friendly="color_field" />
                 <brandisty name="brandisty_field" name_friendly="Brandisty Field" />
                 <article_writer name="articlewriter_field" name_friendly="Article Writer Field" />
+                <markdown name="markdown_field" name_friendly="Markdown Field"/>
 
             </fields>
             <items>
@@ -359,6 +360,7 @@
                     <color_field><![CDATA[]]></color_field>
                     <brandisty_field><![CDATA[]]></brandisty_field>
                     <articlewriter_field><![CDATA[]]></articlewriter_field>
+                    <markdown_field><![CDATA[]]></markdown_field>
                 </item>
               </items>
             </templateset>
